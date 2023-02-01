@@ -1,4 +1,8 @@
-### Hi there 👋
+👋Hi there 👋
+🔭 I create UI using React
+🌱 I’m currently learning JavaScript, HTML5, CSS3
+⚡ I like playing basketball and conducting research besides coding.
+📫 How to reach me: https://www.linkedin.com/in/pelin-idil-güzel-563265240/
 
 <!--
 **idillpelinn/idillpelinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
